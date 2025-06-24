@@ -84,9 +84,9 @@ print(classification_report(y_logistic, y_pred))
 # Incluindo constante nos X para regressão linear
 X_linear = sm.add_constant(X_scaled.drop('const', axis=1))
 
-run_linear_regression(X_linear, y_linear1, 'log_gols_por_partida')
+run_linear_regression(X_linear, y_linear1, 'gols_por_partida')
 
-run_linear_regression(X_linear, y_linear2, 'log_g_a_total')
+run_linear_regression(X_linear, y_linear2, 'g_a_total')
 
 # Matriz de Confusão
 plt.figure(figsize=(6, 4))
