@@ -1,0 +1,102 @@
+ano,jogador,posicao,clube,nacionalidade,etnia,gols,assistencias,jogos,titulos,titulos_2,titulos_3,total_titulos,gols_por_partida,g_a_total,ganhou
+1956,Stanley Matthews,Atacante,Blackpool,Inglaterra,Branco,3,0,40,,,,0.0,0.08,3,1
+1957,Alfredo Di Stéfano,Atacante,Real Madrid,Espanha,Branco,43,0,43,La Liga,,,1.0,1.0,43,1
+1958,Raymond Kopa,Meio-campista,Real Madrid,França,Branco,11,0,34,Champions League,,,1.0,0.32,11,1
+1959,Alfredo Di Stéfano,Atacante,Real Madrid,Espanha,Branco,30,12,38,La Liga,Copa del Rey,,2.0,0.79,42,1
+1960,Luis Suárez,Meio-campista,Barcelona,Espanha,Branco,14,12,36,Copa del Rey,,,1.0,0.39,26,1
+1961,Omar Sívori,Atacante,Juventus,Itália,Branco,28,0,29,Serie A,,,1.0,0.97,28,1
+1962,Josef Masopust,Meio-campista,Dukla Praga,Tchéquia,Branco,10,8,30,,,,0.0,0.33,18,1
+1963,Lev Yashin,Goleiro,Dínamo Moscou,União Soviética,Branco,0,0,29,,,,0.0,0.0,0,1
+1964,Denis Law,Atacante,Manchester United,Escócia,Branco,46,0,43,,,,0.0,1.07,46,1
+1965,Eusébio,Atacante,Benfica,Portugal,Afrodescendente,48,0,36,Taça de Portugal,,,1.0,1.33,48,1
+1966,Bobby Charlton,Meio-campista,Manchester United,Inglaterra,Branco,18,0,54,Copa do Mundo,,,1.0,0.33,18,1
+1967,Flórián Albert,Atacante,Ferencváros,Hungria,Branco,28,0,27,,,,0.0,1.04,28,1
+1968,George Best,Atacante,Manchester United,Irlanda do Norte,Branco,32,0,53,Champions League,,,1.0,0.6,32,1
+1969,Gianni Rivera,Meio-campista,Milan,Itália,Branco,6,0,39,Champions League,,,1.0,0.15,6,1
+1970,Gerd Müller,Atacante,Bayern de Munique,Alemanha,Branco,42,0,38,Copa do Mundo,,,1.0,1.11,42,1
+1971,Johan Cruyff,Atacante,Ajax,Holanda,Branco,26,8,31,Champions League,Eredivisie,,2.0,0.84,34,1
+1972,Franz Beckenbauer,Defensor,Bayern de Munique,Alemanha,Branco,7,0,47,Eurocopa,,,1.0,0.15,7,1
+1973,Johan Cruyff,Atacante,Barcelona,Holanda,Branco,16,16,26,La Liga,,,1.0,0.62,32,1
+1974,Johan Cruyff,Atacante,Barcelona,Holanda,Branco,20,12,30,,,,0.0,0.67,32,1
+1975,Oleg Blokhin,Atacante,Dínamo Kiev,União Soviética,Branco,23,0,36,Supercopa Europeia,,,1.0,0.64,23,1
+1976,Franz Beckenbauer,Defensor,Bayern de Munique,Alemanha,Branco,7,0,52,Champions League,,,1.0,0.13,7,1
+1977,Allan Simonsen,Atacante,Borussia Mönchengladbach,Dinamarca,Branco,17,0,45,,,,0.0,0.38,17,1
+1978,Kevin Keegan,Atacante,Hamburgo,Inglaterra,Branco,6,0,25,,,,0.0,0.24,6,1
+1979,Kevin Keegan,Atacante,Hamburgo,Inglaterra,Branco,17,0,34,,,,0.0,0.5,17,1
+1980,Karl-Heinz Rummenigge,Atacante,Bayern de Munique,Alemanha,Branco,36,0,47,,,,0.0,0.77,36,1
+1981,Karl-Heinz Rummenigge,Atacante,Bayern de Munique,Alemanha,Branco,39,0,45,Bundesliga,,,1.0,0.87,39,1
+1982,Paolo Rossi,Atacante,Juventus,Itália,Branco,1,0,3,Copa do Mundo,,,1.0,0.33,1,1
+1983,Michel Platini,Meio-campista,Juventus,França,Branco,18,0,30,,,,0.0,0.6,18,1
+1984,Michel Platini,Meio-campista,Juventus,França,Branco,20,0,28,Eurocopa,,,1.0,0.71,20,1
+1985,Michel Platini,Meio-campista,Juventus,França,Branco,18,0,30,Champions League,,,1.0,0.6,18,1
+1986,Igor Belanov,Atacante,Dínamo Kiev,União Soviética,Branco,14,0,32,,,,0.0,0.44,14,1
+1987,Ruud Gullit,Meio-campista,Milan,Holanda,Afrodescendente,26,0,37,,,,0.0,0.7,26,1
+1988,Marco van Basten,Atacante,Milan,Holanda,Branco,33,0,47,Eurocopa,,,1.0,0.7,33,1
+1989,Marco van Basten,Atacante,Milan,Holanda,Branco,32,12,40,Champions League,,,1.0,0.8,44,1
+1990,Lothar Matthäus,Meio-campista,Inter de Milão,Alemanha,Branco,13,0,29,"Copa do Mundo, Supercopa da Italia",,2.0,0.45,13.0,1,0
+1990,Salvatore Schillaci,Atacante,Juventus,Italia,Branco,21,4,50,,,0.0,0.42,25.0,0,0
+1991,Jean-Pierre Papin,Atacante,Marseille,França,Branco,23,0,36,Ligue 1,,,1.0,0.64,23,1
+1991,Dejan Savicevic,Meio-campista,Estrela Vermelha,Iugoslavia,Branco,14,0,39,"Copa dos Campeoes da Europa, Copa Intercontinental",,2.0,0.36,14.0,0,0
+1992,Marco van Basten,Atacante,Milan,Holanda,Branco,29,0,38,Serie A,,,1.0,0.76,29,1
+1992,Hristo Stoichkov,Atacante,Barcelona,Bulgaria,Branco,23,1,44,"Copa dos Campeoes da Europa, La Liga",,2.0,0.52,24.0,0,0
+1993,Roberto Baggio,Atacante,Juventus,Itália,Branco,30,6,43,Copa da UEFA,,,1.0,0.7,36,1
+1993,Dennis Bergkamp,Atacante,Inter de Milão,Holanda,Branco,33,4,40,,,0.0,0.83,37.0,0,0
+1994,Hristo Stoichkov,Atacante,Barcelona,Bulgária,Branco,24,14,48,La Liga,,,1.0,0.5,38,1
+1994,Roberto Baggio,Atacante,Juventus,Italia,Branco,22,8,41,,,0.0,0.54,30.0,0,0
+1995,George Weah,Atacante,Milan,Liberia,Afrodescendente,15,0,35,,,,0.0,0.43,15,1
+1995,Jurgen Klinsmann,Atacante,Bayern de Munique,Alemanha,Branco,31,2,45,Copa da UEFA,,,1.0,0.69,33,0
+1996,Matthias Sammer,Defensor,Borussia Dortmund,Alemanha,Branco,3,0,29,"Bundesliga, Eurocopa",,2.0,0.1,3.0,1,0
+1996,Ronaldo,Atacante,Barcelona,Brasil,Mestiço,47,0,49,"Copa do Rei, Recopa Europeia",,2.0,0.96,47.0,0,0
+1997,Ronaldo,Atacante,Inter de Milão,Brasil,Mestiço,34,0,47,Copa da UEFA,,,1.0,0.72,34,1
+1997,Predrag Mijatovic,Atacante,Real Madrid,Iugoslavia,Branco,15,0,43,La Liga,,,1.0,0.35,15,0
+1998,Zinédine Zidane,Meio-campista,Juventus,França,Árabe-Berbere,11,15,48,"Copa do Mundo, Serie A",,2.0,0.23,26.0,1,0
+1998,Davor Suker,Atacante,Real Madrid,Croacia,Branco,15,4,40,Copa dos Campeoes da Europa,,,1.0,0.38,19,0
+1999,Rivaldo,Meio-campista,Barcelona,Brasil,Mestiço,29,0,48,La Liga,,,1.0,0.6,29,1
+1999,David Beckham,Meio-campista,Manchester United,Inglaterra,Branco,9,19,55,"Champions League, Premier League, FA Cup",,3.0,0.16,28.0,0,0
+2000,Luís Figo,Meio-campista,Real Madrid,Portugal,Branco,14,0,51,La Liga (com Barcelona),,,1.0,0.27,14,1
+2000,Zinedine Zidane,Meio-campista,Juventus,Franca,Árabe-Berbere,5,3,41,Eurocopa,,,1.0,0.12,8,0
+2001,Michael Owen,Atacante,Liverpool,Inglaterra,Branco,24,7,46,"Copa da UEFA, FA Cup, Copa da Liga",,3.0,0.52,31.0,1,0
+2001,Raul,Atacante,Real Madrid,Espanha,Branco,32,8,50,La Liga,,,1.0,0.64,40,0
+2002,Ronaldo,Atacante,Real Madrid,Brasil,Mestiço,31,7,44,"Copa do Mundo, Copa Intercontinental",,2.0,0.7,38.0,1,0
+2002,Roberto Carlos,Defensor,Real Madrid,Brasil,Mestiço,6,11,53,"Copa dos Campeoes da Europa, Supercopa da UEFA",,2.0,0.11,17.0,0,0
+2003,Pavel Nedvěd,Meio-campista,Juventus,Tchéquia,Branco,14,0,43,"Serie A, Supercopa da Italia",,2.0,0.33,14.0,1,0
+2003,Thierry Henry,Atacante,Arsenal,Franca,Afrodescendente,32,23,55,FA Cup,,,1.0,0.58,55,0
+2004,Andriy Shevchenko,Atacante,Milan,Ucrânia,Branco,29,4,44,Serie A,,,1.0,0.66,33,1
+2004,Deco,Meio-campista,FC Porto,Portugal,Branco,4,15,45,"Champions League, Primeira Liga",,2.0,0.09,19.0,0,0
+2005,Ronaldinho,Meio-campista,Barcelona,Brasil,Afrodescendente,26,23,45,"La Liga, Copa das Confederacoes",,2.0,0.58,49.0,1,0
+2005,Frank Lampard,Meio-campista,Chelsea,Inglaterra,Branco,19,18,58,Premier League,,,1.0,0.33,37,0
+2006,Fabio Cannavaro,Defensor,Real Madrid,Itália,Branco,4,0,48,"Copa do Mundo, Serie A (revogado)",,2.0,0.08,4.0,1,0
+2006,Gianluigi Buffon,Goleiro,Juventus,Italia,Branco,0,0,24,Copa do Mundo,,,1.0,0.0,0,0
+2007,Kaká,Meio-campista,Milan,Brasil,Branco,18,11,48,"Champions League, Mundial de Clubes",,2.0,0.38,29.0,1,0
+2007,Cristiano Ronaldo,Atacante,Manchester United,Portugal,Branco,23,20,53,Premier League,,,1.0,0.43,43,0
+2008,Cristiano Ronaldo,Atacante,Manchester United,Portugal,Branco,42,7,49,"Champions League, Premier League",,2.0,0.86,49.0,1,0
+2008,Lionel Messi,Atacante,Barcelona,Argentina,Branco,38,17,51,Olimpiadas,,,1.0,0.75,55,0
+2009,Lionel Messi,Atacante,Barcelona,Argentina,Branco,38,17,51,"Champions League, La Liga, Copa del Rey",,3.0,0.75,55.0,1,0
+2009,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,33,8,35,,,0.0,0.94,41.0,0,0
+2010,Lionel Messi,Atacante,Barcelona,Argentina,Branco,47,11,53,La Liga,,,1.0,0.89,58,1
+2010,Andres Iniesta,Meio-campista,Barcelona,Espanha,Branco,1,9,42,"Copa do Mundo, La Liga",,2.0,0.02,10.0,0,0
+2011,Lionel Messi,Atacante,Barcelona,Argentina,Branco,53,25,55,"Champions League, La Liga, Mundial de Clubes",,3.0,0.96,78.0,1,0
+2011,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,53,16,52,Copa del Rey,,,1.0,1.02,69,0
+2012,Lionel Messi,Atacante,Barcelona,Argentina,Branco,91,22,69,Copa del Rey,,,1.0,1.32,113,1
+2012,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,60,11,58,La Liga,,,1.0,1.03,71,0
+2013,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,59,14,50,,,,0.0,1.18,73,1
+2013,Lionel Messi,Atacante,Barcelona,Argentina,Branco,45,16,47,La Liga,,,1.0,0.96,61,0
+2014,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,61,22,60,"Champions League, Mundial de Clubes",,2.0,1.02,83.0,1,0
+2014,Lionel Messi,Atacante,Barcelona,Argentina,Branco,58,22,66,,,0.0,0.88,80.0,0,0
+2015,Lionel Messi,Atacante,Barcelona,Argentina,Branco,52,26,60,"Champions League, La Liga, Copa del Rey",,3.0,0.87,78.0,1,0
+2015,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,57,17,57,,,0.0,1.0,74.0,0,0
+2016,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,51,15,48,"Champions League, Eurocopa",,2.0,1.06,66.0,1,0
+2016,Lionel Messi,Atacante,Barcelona,Argentina,Branco,51,25,51,"La Liga, Copa del Rey",,2.0,1.0,76.0,0,0
+2017,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,44,8,44,"Champions League, La Liga",,2.0,1.0,52.0,1,0
+2017,Lionel Messi,Atacante,Barcelona,Argentina,Branco,45,18,54,Copa del Rey,,,1.0,0.83,63,0
+2018,Luka Modrić,Meio-campista,Real Madrid,Croácia,Branco,4,11,54,Champions League,,,1.0,0.07,15,1
+2018,Cristiano Ronaldo,Atacante,Real Madrid,Portugal,Branco,44,8,44,Champions League,,,1.0,1.0,52,0
+2019,Lionel Messi,Atacante,Barcelona,Argentina,Branco,51,20,50,La Liga,,,1.0,1.02,71,1
+2019,Virgil van Dijk,Defensor,Liverpool,Holanda,Mestiço,6,2,50,Champions League,,,1.0,0.12,8,0
+2021,Lionel Messi,Atacante,PSG,Argentina,Branco,38,14,47,"Copa America, Copa del Rey",,2.0,0.81,52.0,1,0
+2021,Robert Lewandowski,Atacante,Bayern de Munique,Polonia,Branco,48,9,40,"Bundesliga, Mundial de Clubes",,2.0,1.2,57.0,0,0
+2022,Karim Benzema,Atacante,Real Madrid,França,Árabe-Berbere,44,15,46,"Champions League, La Liga",,2.0,0.96,59.0,1,0
+2022,Sadio Mane,Atacante,Liverpool,Senegal,Afrodescendente,23,5,51,Copa Africana de Nacoes,,,1.0,0.45,28,0
+2023,Lionel Messi,Atacante,Inter Miami,Argentina,Branco,21,20,41,"Copa do Mundo, Ligue 1",,2.0,0.51,41.0,1,0
+2023,Erling Haaland,Atacante,Manchester City,Noruega,Branco,52,9,53,"Champions League, Premier League, FA Cup",,3.0,0.98,61.0,0,0
+2024,Rodri,Meio-campista,Manchester City,Espanha,Branco,9,14,50,Premier League,Eurocopa,,2.0,0.18,23,1
